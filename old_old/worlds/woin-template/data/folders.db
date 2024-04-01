@@ -1,0 +1,195 @@
+{"_id":"0yfBEYzOgvoOjUQm","name":"Elements of Magic","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"color":"","flags":{}}
+{"_id":"1YLi6zpuOI4bGsDM","name":"Ogre","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"2RXEqXvh2vr0zbcg","name":"Magical","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"name":"Misc Melee Weapons","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"2ePd085jSZVodXKu"}
+{"_id":"2gAt7wSFRBCH7aut","name":"_AGE","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"2i4sk8998xcbLnJy","name":"BESTIARY","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"3JizWYY2L0jCqfsc","name":"_DIALOGS","type":"Item","parent":"f6XLrG2AyWBumb8L","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"_DIALOG_PROPERTIES","type":"Item","parent":"3JizWYY2L0jCqfsc","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3OeOHxpRdra1Ha6d"}
+{"_id":"3meMnVLwDoSoq2c7","name":"Developmental","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"_LABELS","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"48UvgPp72qjBgcuJ"}
+{"_id":"5MeN0EFcPN6u4jBx","name":"RACES","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1400000,"color":null,"flags":{}}
+{"_id":"68ECoB8Pxi3AKX2Q","name":"Smallfolk","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"6Go6ZXUrS7ec7BSH","name":"Barbarian","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"name":"Squire","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6IWMFiMdCEHBtdql"}
+{"_id":"6JzECOT38jY3G46T","name":"SKILLS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"name":"INTUITION","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6NDpNCoSdBF55CpG"}
+{"name":"RULES","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6OhvkQ8XzH3bWPvW"}
+{"_id":"6TNlTYY2BrocEhVx","name":"RITUALS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"6cQKxFye1sLiNZRm","name":"Illusionist","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2700000,"color":null,"flags":{}}
+{"name":"CHARISMA","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6xU4qIrtDthfFHFn"}
+{"name":"_ROLES","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":0,"color":null,"flags":{},"_id":"71Vro6vIASlTEdqi"}
+{"name":"Ranged Weapons","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"73IphMdta7J29C7P"}
+{"_id":"7HgDQCLq0haByQkR","name":"TRAITS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1300000,"color":null,"flags":{}}
+{"name":"Witch/Warlock","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"7hMER1LwMgT0hmLn"}
+{"name":"Ghost","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8OzCRRUfHfHq0jfX"}
+{"name":"MOVEMENT","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8SODJxvlSxrvxogC"}
+{"_id":"8f9pHCRoEcSIsAw4","name":"CONDITIONS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"name":"Iron Golem","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8ocmvvNrgLneWhZt"}
+{"name":"Plants","type":"Item","parent":"Pcqfd0XOSgbw4SeM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"9xPQ0kLnEvJiubVS"}
+{"name":"Expert","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"B6FHWKtx3ad6PU2z"}
+{"_id":"BIzPR2fglkBlOOfa","name":"CAREERS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1800000,"color":null,"flags":{}}
+{"name":"Knight","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"BZKBRKYXzSBlGgHv"}
+{"_id":"C65SjdPwPa4tU2In","name":"Ice Mage","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2600000,"color":null,"flags":{}}
+{"name":"Task Tables","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"C8x6jHzYycjwYzaQ"}
+{"name":"General or Unusual","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CTghoJiGoIAjpgLt"}
+{"_id":"CZq1RRLSi3gG1Ezi","name":"_PC_DEFAULT_ITEMS","type":"Item","parent":"MDLRLWQFlCzFvRTC","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"CgCkOVNqrYvi3SVf","name":"Healer","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2500000,"color":null,"flags":{}}
+{"_id":"CpsgWuUIxG8k5lXi","name":"_ORIGINS","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Axes","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CrS5RM7PCzylESgi"}
+{"_id":"D9S3BtVrZkYLxP7d","name":"Prisoner","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2200000,"color":null,"flags":{}}
+{"name":"_npc","type":"Item","parent":"e5gY873Kzyiwmqq3","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EPC9kyf298SbMLQ2"}
+{"_id":"EPOYjwYAQBn9OPRG","name":"WEAPONS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":800000,"color":"","flags":{}}
+{"name":"Brute","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EPdwYnIkFBQ9FGXV"}
+{"_id":"Eo5z7Ib1qqdHQ6pL","name":"_pc_main_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"F2txU2GqjcorZR3V","name":"_PROPERTIES","type":"Item","parent":"f6XLrG2AyWBumb8L","sorting":"a","sort":-300000,"color":null,"flags":{}}
+{"name":"_pc_inventory_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"FVBo7pbyCVXR6mdx"}
+{"name":"STRENGTH","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Fup2FwCNc8YYqmGw"}
+{"_id":"Fuzle6nOYBVpZYXA","name":"_COMPENDIUM_ITEMS","type":"Item","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"FwnFmhABZddC5we9","name":"Swords","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"HJadn6xCgl6knLSc","name":"_TEMPLATE_ACTORS","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"HK3ZJ70OmRJyz2zW","name":"_GROUPS","type":"Item","parent":"MDLRLWQFlCzFvRTC","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"OLD Tables","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"HKn0rgo7s87SzAid"}
+{"_id":"IU0lLj7cWCaKZ5w8","name":"Gauntlets","type":"Item","parent":"fPMWU2etPutVe2a2","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Ranger","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IjsDdKuOwARLqeZd"}
+{"name":"Ruffian","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IsgVLRXJAKSHAy8P"}
+{"name":"Lair Guardian","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IufSVGcEatYFbXp7"}
+{"name":"Bandit","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"JAjKTfbYzCIfPoL9"}
+{"_id":"JD1Uamjv4DQMLR3Q","name":"Lore","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"name":"Sidebars","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"JOVyFFiv9nsH4xXA"}
+{"name":"Knight-Errant","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"JceFZx1TfB6qnrp8"}
+{"_id":"Jna0NyefpaDfjafb","name":"Artistic","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"REPUTATION","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"JqK60drSWuVzrJuL"}
+{"name":"Shinobi","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"KEVWFAteeic2ancu"}
+{"_id":"KPCov9iS9QA9YAYq","name":"Sailor","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2300000,"color":null,"flags":{}}
+{"name":"ENDURANCE","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"LTaSV3HbcgZVShvV"}
+{"name":"Undead Hunter","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"LpJo7qYPNDg5n4QS"}
+{"_id":"LrxBa3yJanKbNpoM","name":"_CREATURE_TYPES","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"name":"Charm","type":"Item","parent":"Pcqfd0XOSgbw4SeM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Lxen82e4CgTBouQS"}
+{"_id":"MDLRLWQFlCzFvRTC","name":"_CONFIG","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"MuiW7Pt6lF4ObfKQ","name":"Berserker","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":900000,"color":null,"flags":{}}
+{"name":"Pirate","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Mv1mEP5fVo42yLaZ"}
+{"name":"Mountain Troll","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"NQk99jNeaYsBEXlV"}
+{"_id":"NqKckcT4lyMzzXAX","name":"Vehicle","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":1400000,"color":null,"flags":{}}
+{"name":"Living Statue","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"O9qL52mVOioBDbNe"}
+{"name":"Eastern Melee Weapons","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"OUEqBgIby29YV1Pp"}
+{"_id":"OzS2WcFbO2zg4Ajc","name":"Cleric","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"name":"LOGIC","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PFmd90c0PPc9AHRt"}
+{"name":"WILLPOWER","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PTuT9VZR58YUHI5I"}
+{"_id":"PYAZ3o5qNDV7sAcW","name":"Combat","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"PYdcmo9j2Uz0pg2k","name":"Hobby","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"Pcqfd0XOSgbw4SeM","name":"SPELLPATHS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1200000,"color":null,"flags":{}}
+{"_id":"Pj5DNbMR4k6QhQbS","name":"Goblin Scrapper","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2400000,"color":null,"flags":{}}
+{"name":"Ninja","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PtP8ksH4kY8N4p6g"}
+{"name":"_chest_main_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Q190X4cajO12ocBN"}
+{"_id":"QFY4tyRRe2SlYMQe","name":"Sylvan Elf","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"_pc_spellcasting_eom_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"QtLgXlEtvoZrWnsZ"}
+{"_id":"RBuYUpKx6Sa5y41K","name":"_COMPENDIUM_ACTORS","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"RRM8wfMZ7OfNpitr","name":"GEAR","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1700000,"color":null,"flags":{}}
+{"_id":"S3TM70fcBZ4kQFEQ","name":"Archer","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"Shaman","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"S45kqXiOG1CJe2yB"}
+{"name":"ATTRIBUTES","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"SRYCJU9eo3Zf7pWh"}
+{"_id":"SV4jEMSc2BjRSmZx","name":"Vocational","type":"Item","parent":"BIzPR2fglkBlOOfa","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"SpC0PiUGWb159d7D","name":"Herbs","type":"Item","parent":"RRM8wfMZ7OfNpitr","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"_pc_spellcasting_rituals_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"T881WJYwb736pkU9"}
+{"_id":"TUu3sVCLZLH2k6rb","name":"Gaming","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"TVG4g5R9Xu77EtWH","name":"Origin","type":"Item","parent":"BIzPR2fglkBlOOfa","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"TVwCLYxdRh6kRbHP","name":"General Armor","type":"Item","parent":"fPMWU2etPutVe2a2","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"Firemage","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Tz300Yz1CyLSk7Lc"}
+{"_id":"UV9Z3BuCAd7wdEuO","name":"Eastern Armor","type":"Item","parent":"fPMWU2etPutVe2a2","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"V2pVdgpVp1ro4hLb","name":"_pc_gm_information_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"Vq6ZQ5t4AJwChFRv","name":"SECRETS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1500000,"color":null,"flags":{}}
+{"name":"DEFENSES","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"W4GxzoDu3NNyBXBh"}
+{"name":"Centipede, Monstrous","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"W7DtZQJb09L5zK2t"}
+{"_id":"WBS3wrV6WDqnt7DJ","name":"Gnome","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":900000,"color":null,"flags":{}}
+{"_id":"WEyLrkrL0PcT98Wr","name":"Archmage","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"Wg3pgTHZuRCL8765","name":"Inquisitor","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1800000,"color":null,"flags":{}}
+{"name":"Gunpowder Weapons","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"WqeVAqC1rEz5qesC"}
+{"name":"Goblin","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"X7E8GPOdWdHvForV"}
+{"_id":"XwzXCCCQl3Zqg9Su","name":"Enchanter","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1400000,"color":null,"flags":{}}
+{"_id":"YYXFwcx4wFdYolWy","name":"_GROUP_PROPERTIES","type":"Item","parent":"MDLRLWQFlCzFvRTC","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Fire","type":"Item","parent":"Pcqfd0XOSgbw4SeM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YZWGoLawv7wzzHTj"}
+{"name":"Magician","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"YsVikNgulXC0GFA1"}
+{"_id":"ZB8FI2mmQJjrFBfj","name":"Physical","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":1200000,"color":null,"flags":{}}
+{"name":"DERIVED","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ZNfDVAVpH8BNPSj9"}
+{"name":"Necromancer","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ZY3UANKP1mpDKIzR"}
+{"name":"DESCRIPTOR","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ZZERUEd3yBowZMOT"}
+{"name":"Insect Swarm","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Zsd8PQJt39LyISYg"}
+{"name":"Warrior-Monk","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"a0647kNfhteDA4dt"}
+{"name":"_npc_main_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"a7kyd4rjqoGIktTR"}
+{"_id":"aNC317ZQMw93FGRV","name":"Human","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"name":"POOLS","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"aXwJXjEo2zOM7Rsz"}
+{"_id":"b2km0mVmrw4F997Q","name":"Mage","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2000000,"color":null,"flags":{}}
+{"name":"Polearms","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"bR53m0niCKdTRLsV"}
+{"_id":"c6fwbhleNLl5T0Fo","name":"_CREATURE_EXPLOITS","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"_id":"cKnUVO20FjiFl2Tr","name":"Fire Mage","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1500000,"color":null,"flags":{}}
+{"_id":"cPzRRRCegOXdcZBG","name":"Crafting","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"cSO69RctqOi1IcO9","name":"Mountain Dwarf","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":200000,"color":"","flags":{}}
+{"_id":"caIEVcxWdDZpFFTI","name":"Druid","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1300000,"color":null,"flags":{}}
+{"name":"Knight","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"cwq6dxo2MPwn03Tg"}
+{"name":"_pc","type":"Item","parent":"e5gY873Kzyiwmqq3","sorting":"a","sort":0,"color":null,"flags":{},"_id":"dixnUaaHWTI9eIio"}
+{"_id":"e5gY873Kzyiwmqq3","name":"_TABS","type":"Item","parent":"f6XLrG2AyWBumb8L","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"Cloaked Rider","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"e7HAGnj9p6v41v0v"}
+{"_id":"eRvmTlyr2PvqzWxr","name":"Beastfolk","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"f2rv5PZZDSSqI8YS","name":"Diabolist","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1200000,"color":null,"flags":{}}
+{"_id":"f3hkam8velnPDaqn","name":"Magical","type":"Item","parent":"BIzPR2fglkBlOOfa","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"f6XLrG2AyWBumb8L","name":"_TEMPLATE_ITEMS","type":"Item","parent":null,"sorting":"m","sort":300000,"color":null,"flags":{}}
+{"_id":"fPMWU2etPutVe2a2","name":"ARMOR","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":250000,"color":null,"flags":{}}
+{"_id":"fvkvZbR4ssb2yEgX","name":"Herbalist","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1700000,"color":null,"flags":{}}
+{"_id":"g0rHk1kVaNMmEHvg","name":"_DIALOG_PANELS","type":"Item","parent":"3JizWYY2L0jCqfsc","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"gCg79UbBKK4m5IRO","name":"Loremaster","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1900000,"color":null,"flags":{}}
+{"name":"Skirmisher","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gF7jEWlBy8FEynq8"}
+{"name":"Soothsayer","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"gJucJlanoma1ZvZf"}
+{"_id":"hZP5vFLLqpS6ovqo","name":"Performance","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"name":"Headless","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hnM8gTyLFyLK6A6K"}
+{"_id":"hwhkQio9I4VmUQg9","name":"Helmets","type":"Item","parent":"fPMWU2etPutVe2a2","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"i8YhULz86NEHnP3J","name":"Military","type":"Item","parent":"BIzPR2fglkBlOOfa","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"OLD Appendix: Monsters and Foes","type":"Actor","parent":"RBuYUpKx6Sa5y41K","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ipILBQ7YsqYuvaYc"}
+{"_id":"j62i2j3jWKPHinlU","name":"Shields","type":"Item","parent":"fPMWU2etPutVe2a2","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"_chest","type":"Item","parent":"e5gY873Kzyiwmqq3","sorting":"a","sort":0,"color":null,"flags":{},"_id":"jKtvz4hKmlk6ozHB"}
+{"name":"_pc_spellcasting_spellpaths_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"kdEJLad2IUvtGgGS"}
+{"name":"Actions","type":"JournalEntry","parent":"0yfBEYzOgvoOjUQm","sorting":"a","sort":0,"color":null,"flags":{},"_id":"kh8BcWcbszee8u9e"}
+{"_id":"lXJRrbrEJ7xtgZQd","name":"TABLES","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Trickster","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ljYCNd0BinUUG0ul"}
+{"_id":"lqmn6bBoihq8wDqC","name":"DISEASES","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1150000,"color":null,"flags":{}}
+{"name":"_HIDDEN","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"lwYWttN9iVSqWdRN"}
+{"_id":"mtvuvsiHetHttvgF","name":"Gladiator","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1600000,"color":null,"flags":{}}
+{"_id":"n6V5RVwEKqFX7gQv","name":"Implements","type":"Item","parent":"RRM8wfMZ7OfNpitr","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"_chest_hidden_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"nZNRqogZNMmLhp2n"}
+{"name":"Attercop","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"njKj9PQmGBS9SrY3"}
+{"_id":"p3DjCUe8WRFDTYr5","name":"Goblin","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"pRdcvYn4M5WlbMdT","name":"RACIAL_EXPLOITS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":100000,"color":"","flags":{}}
+{"name":"Toolkits","type":"Item","parent":"RRM8wfMZ7OfNpitr","sorting":"a","sort":0,"color":null,"flags":{},"_id":"pSy9ZRKdnTPgOGlr"}
+{"_id":"pmSJwTr4dIrrwFih","name":"Burglar","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"name":"Watchman","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"qHFadpJfpTYPCTpS"}
+{"_id":"qStCV5iGwSOEiyiU","name":"Criminal","type":"Item","parent":"BIzPR2fglkBlOOfa","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"_npc_hidden_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"qxcuKYltFrInkj7l"}
+{"_id":"rN4aPhRuco99ITI8","name":"Subterfuge","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":1300000,"color":null,"flags":{}}
+{"name":"_COMMON","type":"Item","parent":"2i4sk8998xcbLnJy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"rNCDzzSEZbZNACa6"}
+{"name":"_WOIN_MACROS","type":"Macro","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"rRvq9pB94COfsq2O"}
+{"name":"NPC","type":"Item","parent":"F2txU2GqjcorZR3V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ryB6M4PYKBPFIjcZ"}
+{"name":"AGILITY","type":"Item","parent":"7HgDQCLq0haByQkR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"sLtLpFZu3dMtI00I"}
+{"name":"Ninja","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"t6uCuEUtxDyc3Kk2"}
+{"_id":"t8miULesM1zbFzFa","name":"_UNIVERSAL","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2800000,"color":null,"flags":{}}
+{"name":"_ROLE_EXPLOITS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":0,"color":null,"flags":{},"_id":"txkvQfCHGLyJ1vpS"}
+{"_id":"u6IKB2xGGxDFjWXS","name":"_PANELS","type":"Item","parent":"f6XLrG2AyWBumb8L","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Smith","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"uHvnErx9CmsGRjHJ"}
+{"name":"Artillery","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ucsBJswxdlS7gyeC"}
+{"name":"Support","type":"Item","parent":"txkvQfCHGLyJ1vpS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"vbsfN841QpvjkyDV"}
+{"name":"Thrown Weapons","type":"Item","parent":"EPOYjwYAQBn9OPRG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"w6zb4uEjAWtuLOw8"}
+{"_id":"wcwCeiElIqjUiz5f","name":"Battle Mage","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"wu7ZJudd6ktOOvwx","name":"Social","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":900000,"color":null,"flags":{}}
+{"_id":"x0WhSBEmFtTTf6oi","name":"Minstrel","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":2100000,"color":null,"flags":{}}
+{"_id":"xD2arhkEJZf7nfba","name":"Assassin","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"name":"Ice","type":"Item","parent":"Pcqfd0XOSgbw4SeM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xGxGIs6j3dVHRfdy"}
+{"name":"Musketeer","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xgH7Gl1f78ijEeqh"}
+{"_id":"xoWQzlFSwHihJ2QL","name":"Academic","type":"Item","parent":"BIzPR2fglkBlOOfa","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Illusion","type":"Item","parent":"Pcqfd0XOSgbw4SeM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xwN3JMSVbJjlH4d3"}
+{"name":"_pc_advancement_tab","type":"Item","parent":"u6IKB2xGGxDFjWXS","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xx35EI7HWqZrOTmc"}
+{"_id":"y5jLuIIV9Exxoolv","name":"EXPLOITS","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1650000,"color":null,"flags":{}}
+{"_id":"y8bsPnNvsXxlA0ci","name":"Grand Elf","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"yYbAPWz528ZPuLKa","name":"Outdoor","type":"Item","parent":"6JzECOT38jY3G46T","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"yfL7LAcKOIPw18vf","name":"Orc","type":"Item","parent":"pRdcvYn4M5WlbMdT","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"yjxWTeX6LJOmtk3B","name":"Alchemist","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"zI4EFUlkl4INGPfX","name":"_SIZES","type":"Item","parent":"Fuzle6nOYBVpZYXA","sorting":"a","sort":1600000,"color":null,"flags":{}}
+{"name":"Man-at-Arms","type":"Item","parent":"y5jLuIIV9Exxoolv","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zxaGZQVzmairZXUP"}

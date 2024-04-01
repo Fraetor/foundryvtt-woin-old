@@ -1,0 +1,21 @@
+{
+  "name": "woin-template",
+  "title": "woin-template",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.280",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.13.4"
+}

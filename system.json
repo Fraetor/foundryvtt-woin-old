@@ -1,0 +1,41 @@
+{
+    "id": "woin-old",
+    "title": "WOIN OLD System",
+    "description": "What’s O.L.D. is N.E.W.",
+    "version": "2024-04-01",
+    "compatibility": {
+        "minimum": 11,
+        "verified": "11.315",
+        "maximum": 11
+    },
+    "templateVersion": 1,
+    "authors": [
+        {
+            "name": "James Frost",
+            "url": "https://www.frost.cx",
+            "email": "git@frost.cx"
+        }
+    ],
+    "esmodules": [
+        "module/sandbox.js"
+    ],
+    "styles": [
+        "styles/sandbox.css"
+    ],
+    "packs": [],
+    "socket": true,
+    "languages": [
+        {
+            "lang": "en-GB",
+            "name": "English",
+            "path": "lang/en-GB.json"
+        }
+    ],
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "health",
+    "secondaryTokenAttribute": "power",
+    "url": "https://github.com/Fraetor/foundryvtt-woin-old",
+    "manifest": "https://github.com/Fraetor/foundryvtt-woin-old/raw/trunk/system.json",
+    "download": "https://github.com/Fraetor/foundryvtt-woin-old/archive/refs/heads/trunk.zip"
+}
